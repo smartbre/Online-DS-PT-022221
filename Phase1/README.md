@@ -4,3 +4,5 @@
 2. [Week 2 Python Challenge](https://github.com/flatiron-school/DSPT-Week2-PythonChallenge)
 3. [Week 3 GitHub Challenge](https://github.com/learn-co-students/ds-pt-022221-test-repo)
 4. [Week 4 Pandas Practice](https://github.com/flatiron-school/DSPT-Week4-PandasPractice)
+5. [Week 5 SQL Challenge](https://github.com/flatiron-school/DSPT-Week5-SQLChallenge)
+6. [Week 6 Pandas Review](https://github.com/flatiron-school/DSPT-Week6-PandasReview)
