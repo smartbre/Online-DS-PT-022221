@@ -2,7 +2,7 @@
 
 A repository for all study group or optional review resources for the Flatiron School's Online Data Science Part-Time 022221 Cohort
 
-![yay statistics kermit gif from giphy](https://media.giphy.com/media/9ADoZQgs0tyww/giphy.gif)
+![confused math lady gif from giphy](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
 
 
 ## Written Instructions to Connect to This Repository:
