@@ -1,5 +1,5 @@
 # Natural Language Processing
-![](index_files/static/oprah-everyone.png)
+![](static/oprah-everyone.png)
 
 Today we will be doing some EDA with the nltk library, and fitting machine learning models using text as predictors.
 
@@ -98,9 +98,7 @@ def preprocessing(text):
     # YOUR CODE HERE
 ```
 
-**For this warmup, tests are not provided.** 
-
-Instead, examine the output for the following cell. 
+Examine the output for the following cell. 
 - Was your code successful? 
 - Are there words in the output that should be added to our list of stopwords?
 - Should we remove numbers?
